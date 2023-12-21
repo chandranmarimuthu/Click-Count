@@ -11,8 +11,8 @@
     "babel-preset-react": "^6.5.0",
     "react": "^15.1.0",
     "react-dom": "^15.1.0",
-    "webpack": "^1.15.0",
-    "webpack-dev-server": "^1.16.5"
+    "webpack": "^5.89.0",
+    "webpack-dev-server": "^4.15.1"
   },
   "name": "click-count",
   "version": "1.0.0",
